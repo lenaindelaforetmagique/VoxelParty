@@ -1,0 +1,6 @@
+*.xcf
+countours.json
+Sources
+svgMap.js
+svgObjects.js
+svgText.js
